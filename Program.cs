@@ -41,3 +41,8 @@ class Program {
     }
 }
 */
+
+
+//24 Julio 2023 __---___--- 
+// ARRAY doesnt allow to modify its elements. They are fixed
+// ArrayList is like arrays on other languages. This allow modifications and changes
