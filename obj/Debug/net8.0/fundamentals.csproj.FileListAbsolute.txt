@@ -1,0 +1,14 @@
+C:\Users\Joshua\Documents\PROYECTOS\C#\fundamentals\obj\Debug\net8.0\fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joshua\Documents\PROYECTOS\C#\fundamentals\obj\Debug\net8.0\fundamentals.AssemblyInfoInputs.cache
+C:\Users\Joshua\Documents\PROYECTOS\C#\fundamentals\obj\Debug\net8.0\fundamentals.AssemblyInfo.cs
+C:\Users\Joshua\Documents\PROYECTOS\C#\fundamentals\obj\Debug\net8.0\fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\Documents\PROYECTOS\C#\fundamentals\bin\Debug\net8.0\fundamentals.exe
+C:\Users\Joshua\Documents\PROYECTOS\C#\fundamentals\bin\Debug\net8.0\fundamentals.deps.json
+C:\Users\Joshua\Documents\PROYECTOS\C#\fundamentals\bin\Debug\net8.0\fundamentals.runtimeconfig.json
+C:\Users\Joshua\Documents\PROYECTOS\C#\fundamentals\bin\Debug\net8.0\fundamentals.dll
+C:\Users\Joshua\Documents\PROYECTOS\C#\fundamentals\bin\Debug\net8.0\fundamentals.pdb
+C:\Users\Joshua\Documents\PROYECTOS\C#\fundamentals\obj\Debug\net8.0\fundamentals.dll
+C:\Users\Joshua\Documents\PROYECTOS\C#\fundamentals\obj\Debug\net8.0\refint\fundamentals.dll
+C:\Users\Joshua\Documents\PROYECTOS\C#\fundamentals\obj\Debug\net8.0\fundamentals.pdb
+C:\Users\Joshua\Documents\PROYECTOS\C#\fundamentals\obj\Debug\net8.0\fundamentals.genruntimeconfig.cache
+C:\Users\Joshua\Documents\PROYECTOS\C#\fundamentals\obj\Debug\net8.0\ref\fundamentals.dll
