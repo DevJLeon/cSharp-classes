@@ -1,0 +1,15 @@
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/RoyExample/bin/Debug/net7.0/RoyExample
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/RoyExample/bin/Debug/net7.0/RoyExample.deps.json
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/RoyExample/bin/Debug/net7.0/RoyExample.runtimeconfig.json
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/RoyExample/bin/Debug/net7.0/RoyExample.dll
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/RoyExample/bin/Debug/net7.0/RoyExample.pdb
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/RoyExample/obj/Debug/net7.0/RoyExample.csproj.AssemblyReference.cache
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/RoyExample/obj/Debug/net7.0/RoyExample.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/RoyExample/obj/Debug/net7.0/RoyExample.AssemblyInfoInputs.cache
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/RoyExample/obj/Debug/net7.0/RoyExample.AssemblyInfo.cs
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/RoyExample/obj/Debug/net7.0/RoyExample.csproj.CoreCompileInputs.cache
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/RoyExample/obj/Debug/net7.0/RoyExample.dll
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/RoyExample/obj/Debug/net7.0/refint/RoyExample.dll
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/RoyExample/obj/Debug/net7.0/RoyExample.pdb
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/RoyExample/obj/Debug/net7.0/RoyExample.genruntimeconfig.cache
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/RoyExample/obj/Debug/net7.0/ref/RoyExample.dll

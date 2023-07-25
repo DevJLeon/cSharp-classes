@@ -1,0 +1,15 @@
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/dictionaries/bin/Debug/net7.0/dictionaries
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/dictionaries/bin/Debug/net7.0/dictionaries.deps.json
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/dictionaries/bin/Debug/net7.0/dictionaries.runtimeconfig.json
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/dictionaries/bin/Debug/net7.0/dictionaries.dll
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/dictionaries/bin/Debug/net7.0/dictionaries.pdb
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/dictionaries/obj/Debug/net7.0/dictionaries.csproj.AssemblyReference.cache
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/dictionaries/obj/Debug/net7.0/dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/dictionaries/obj/Debug/net7.0/dictionaries.AssemblyInfoInputs.cache
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/dictionaries/obj/Debug/net7.0/dictionaries.AssemblyInfo.cs
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/dictionaries/obj/Debug/net7.0/dictionaries.csproj.CoreCompileInputs.cache
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/dictionaries/obj/Debug/net7.0/dictionaries.dll
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/dictionaries/obj/Debug/net7.0/refint/dictionaries.dll
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/dictionaries/obj/Debug/net7.0/dictionaries.pdb
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/dictionaries/obj/Debug/net7.0/dictionaries.genruntimeconfig.cache
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/dictionaries/obj/Debug/net7.0/ref/dictionaries.dll

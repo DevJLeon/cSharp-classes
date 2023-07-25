@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/RoyExample/RoyExample.csproj": {}
+    "/home/arteN01-041/Documents/joshua Csharp/hobbiesDictionaries/hobbiesDictionaries.csproj": {}
   },
   "projects": {
-    "/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/RoyExample/RoyExample.csproj": {
+    "/home/arteN01-041/Documents/joshua Csharp/hobbiesDictionaries/hobbiesDictionaries.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/RoyExample/RoyExample.csproj",
-        "projectName": "RoyExample",
-        "projectPath": "/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/RoyExample/RoyExample.csproj",
+        "projectUniqueName": "/home/arteN01-041/Documents/joshua Csharp/hobbiesDictionaries/hobbiesDictionaries.csproj",
+        "projectName": "hobbiesDictionaries",
+        "projectPath": "/home/arteN01-041/Documents/joshua Csharp/hobbiesDictionaries/hobbiesDictionaries.csproj",
         "packagesPath": "/home/arteN01-041/.nuget/packages/",
-        "outputPath": "/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/RoyExample/obj/",
+        "outputPath": "/home/arteN01-041/Documents/joshua Csharp/hobbiesDictionaries/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/arteN01-041/.nuget/NuGet/NuGet.Config"

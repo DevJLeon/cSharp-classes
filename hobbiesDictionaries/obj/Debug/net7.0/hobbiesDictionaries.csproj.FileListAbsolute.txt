@@ -1,0 +1,15 @@
+/home/arteN01-041/Documents/joshua Csharp/hobbiesDictionaries/bin/Debug/net7.0/hobbiesDictionaries
+/home/arteN01-041/Documents/joshua Csharp/hobbiesDictionaries/bin/Debug/net7.0/hobbiesDictionaries.deps.json
+/home/arteN01-041/Documents/joshua Csharp/hobbiesDictionaries/bin/Debug/net7.0/hobbiesDictionaries.runtimeconfig.json
+/home/arteN01-041/Documents/joshua Csharp/hobbiesDictionaries/bin/Debug/net7.0/hobbiesDictionaries.dll
+/home/arteN01-041/Documents/joshua Csharp/hobbiesDictionaries/bin/Debug/net7.0/hobbiesDictionaries.pdb
+/home/arteN01-041/Documents/joshua Csharp/hobbiesDictionaries/obj/Debug/net7.0/hobbiesDictionaries.csproj.AssemblyReference.cache
+/home/arteN01-041/Documents/joshua Csharp/hobbiesDictionaries/obj/Debug/net7.0/hobbiesDictionaries.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-041/Documents/joshua Csharp/hobbiesDictionaries/obj/Debug/net7.0/hobbiesDictionaries.AssemblyInfoInputs.cache
+/home/arteN01-041/Documents/joshua Csharp/hobbiesDictionaries/obj/Debug/net7.0/hobbiesDictionaries.AssemblyInfo.cs
+/home/arteN01-041/Documents/joshua Csharp/hobbiesDictionaries/obj/Debug/net7.0/hobbiesDictionaries.csproj.CoreCompileInputs.cache
+/home/arteN01-041/Documents/joshua Csharp/hobbiesDictionaries/obj/Debug/net7.0/hobbiesDictionaries.dll
+/home/arteN01-041/Documents/joshua Csharp/hobbiesDictionaries/obj/Debug/net7.0/refint/hobbiesDictionaries.dll
+/home/arteN01-041/Documents/joshua Csharp/hobbiesDictionaries/obj/Debug/net7.0/hobbiesDictionaries.pdb
+/home/arteN01-041/Documents/joshua Csharp/hobbiesDictionaries/obj/Debug/net7.0/hobbiesDictionaries.genruntimeconfig.cache
+/home/arteN01-041/Documents/joshua Csharp/hobbiesDictionaries/obj/Debug/net7.0/ref/hobbiesDictionaries.dll

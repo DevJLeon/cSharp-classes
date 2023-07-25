@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/RoyExample/RoyExample.csproj": {}
+    "/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/dictionaries/dictionaries.csproj": {}
   },
   "projects": {
-    "/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/RoyExample/RoyExample.csproj": {
+    "/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/dictionaries/dictionaries.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/RoyExample/RoyExample.csproj",
-        "projectName": "RoyExample",
-        "projectPath": "/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/RoyExample/RoyExample.csproj",
+        "projectUniqueName": "/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/dictionaries/dictionaries.csproj",
+        "projectName": "dictionaries",
+        "projectPath": "/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/dictionaries/dictionaries.csproj",
         "packagesPath": "/home/arteN01-041/.nuget/packages/",
-        "outputPath": "/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/RoyExample/obj/",
+        "outputPath": "/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/dictionaries/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/arteN01-041/.nuget/NuGet/NuGet.Config"
