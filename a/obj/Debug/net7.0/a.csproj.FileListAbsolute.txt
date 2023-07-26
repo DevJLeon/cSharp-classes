@@ -1,0 +1,15 @@
+/home/arteN01-062/Documents/joshua/cSharp-classes/a/bin/Debug/net7.0/a
+/home/arteN01-062/Documents/joshua/cSharp-classes/a/bin/Debug/net7.0/a.deps.json
+/home/arteN01-062/Documents/joshua/cSharp-classes/a/bin/Debug/net7.0/a.runtimeconfig.json
+/home/arteN01-062/Documents/joshua/cSharp-classes/a/bin/Debug/net7.0/a.dll
+/home/arteN01-062/Documents/joshua/cSharp-classes/a/bin/Debug/net7.0/a.pdb
+/home/arteN01-062/Documents/joshua/cSharp-classes/a/obj/Debug/net7.0/a.csproj.AssemblyReference.cache
+/home/arteN01-062/Documents/joshua/cSharp-classes/a/obj/Debug/net7.0/a.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-062/Documents/joshua/cSharp-classes/a/obj/Debug/net7.0/a.AssemblyInfoInputs.cache
+/home/arteN01-062/Documents/joshua/cSharp-classes/a/obj/Debug/net7.0/a.AssemblyInfo.cs
+/home/arteN01-062/Documents/joshua/cSharp-classes/a/obj/Debug/net7.0/a.csproj.CoreCompileInputs.cache
+/home/arteN01-062/Documents/joshua/cSharp-classes/a/obj/Debug/net7.0/a.dll
+/home/arteN01-062/Documents/joshua/cSharp-classes/a/obj/Debug/net7.0/refint/a.dll
+/home/arteN01-062/Documents/joshua/cSharp-classes/a/obj/Debug/net7.0/a.pdb
+/home/arteN01-062/Documents/joshua/cSharp-classes/a/obj/Debug/net7.0/a.genruntimeconfig.cache
+/home/arteN01-062/Documents/joshua/cSharp-classes/a/obj/Debug/net7.0/ref/a.dll
