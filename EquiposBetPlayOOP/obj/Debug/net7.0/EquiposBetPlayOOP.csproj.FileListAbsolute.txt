@@ -1,0 +1,15 @@
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/EquiposBetPlayOOP/bin/Debug/net7.0/EquiposBetPlayOOP
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/EquiposBetPlayOOP/bin/Debug/net7.0/EquiposBetPlayOOP.deps.json
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/EquiposBetPlayOOP/bin/Debug/net7.0/EquiposBetPlayOOP.runtimeconfig.json
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/EquiposBetPlayOOP/bin/Debug/net7.0/EquiposBetPlayOOP.dll
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/EquiposBetPlayOOP/bin/Debug/net7.0/EquiposBetPlayOOP.pdb
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/EquiposBetPlayOOP/obj/Debug/net7.0/EquiposBetPlayOOP.csproj.AssemblyReference.cache
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/EquiposBetPlayOOP/obj/Debug/net7.0/EquiposBetPlayOOP.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/EquiposBetPlayOOP/obj/Debug/net7.0/EquiposBetPlayOOP.AssemblyInfoInputs.cache
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/EquiposBetPlayOOP/obj/Debug/net7.0/EquiposBetPlayOOP.AssemblyInfo.cs
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/EquiposBetPlayOOP/obj/Debug/net7.0/EquiposBetPlayOOP.csproj.CoreCompileInputs.cache
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/EquiposBetPlayOOP/obj/Debug/net7.0/EquiposBetPlayOOP.dll
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/EquiposBetPlayOOP/obj/Debug/net7.0/refint/EquiposBetPlayOOP.dll
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/EquiposBetPlayOOP/obj/Debug/net7.0/EquiposBetPlayOOP.pdb
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/EquiposBetPlayOOP/obj/Debug/net7.0/EquiposBetPlayOOP.genruntimeconfig.cache
+/home/arteN01-041/Documents/joshua Csharp/cSharp-classes/EquiposBetPlayOOP/obj/Debug/net7.0/ref/EquiposBetPlayOOP.dll

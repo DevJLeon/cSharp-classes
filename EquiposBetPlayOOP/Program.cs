@@ -1,47 +1,38 @@
 ﻿using System;
+using EquiposBetPlayOOP.View;
 
 internal class Program
 {
     private static void Main(string[] args)
     {
+        MainMenu menu = new MainMenu();
         int option;
         do {
-            ShowMenu();
-            option = RequestOption();
+            option = menu.menu();
 
             switch(option){
                 case 1:
-                    
+                    MenuPlantel menuPlantel = new MenuPlantel();
+                    int opcionPlantel;
+                    do
+                    {
+                        opcionPlantel = menuPlantel.menuPlantel();
+                    }while(opcionPlantel != 6);
                     break;
                 case 2:
-
+                    int optionSearch;
+                    MenuBusqueda menuBusqueda = new MenuBusqueda();
+                    do{
+                        optionSearch = menuBusqueda.menuBusqueda();
+                    }while(optionSearch != 4);
                     break;
                 case 3:
-
-                    break;                    
-            }
-
+                    break;
+                default:
+                    break;               
+            } option = menu.menu();
         } while(option!=3);
     }
-
-    static void ShowMenu(){
-        Console.WriteLine("Menú de opciones:");
-        Console.WriteLine("1. Registro Pantel");
-        Console.WriteLine("2. Consulta de datos");
-        Console.WriteLine("3. Salir");
-    }
-        static void MenuRegister(){
-        Console.WriteLine("Menú de opciones:");
-        Console.WriteLine("1. Registro Pantel");
-        Console.WriteLine("2. Consulta de datos");
-        Console.WriteLine("3. Salir");
-    }
-
-    static int RequestOption() {
-        Console.Write("Elige una opcion");
-        return Convert.ToInt32(Console.ReadLine());
-    }
-
     
 }
 
